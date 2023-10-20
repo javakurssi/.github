@@ -35,7 +35,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 **Tehtävät (DL 29.10.)**
 
-💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
 
 * [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
 * [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
@@ -57,7 +57,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 **Tehtävät (DL 5.11.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
 
 * [Map exercises](https://github.com/ohjelmointi2/map-exercises)
 
@@ -74,7 +74,9 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 
 **Tehtävät (DL 12.11.)**
 
-* JUnit exercise (linkki tulossa)
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+
+* [JUnit exercise](https://github.com/ohjelmointi2/junit-exercise)
 
 ----
 
@@ -111,7 +113,7 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 
 **Tehtävät (DL 26.11.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
 
 * [Streams and Lambdas](https://github.com/ohjelmointi2/streams-and-lambdas)
 
@@ -128,7 +130,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Tehtävät (DL 3.12.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
 
 * [SQL databases (Chinook, JDBC & DAO)](https://github.com/ohjelmointi2/sql-databases/)
 
@@ -159,7 +161,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Tehtävät (DL 10.12.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi, jonka saat tehtyä Teams-tehtävän ohjeen mukaisesti.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
 
 * [Sorting & Filtering](https://github.com/ohjelmointi2/sorting-and-filtering)
 
