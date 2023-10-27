@@ -93,7 +93,9 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 
 **Tehtävät (DL 19.11.)**
 
-* Interfaces and inheritance (linkki tulossa)
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+
+* [Interfaces and inheritance](https://github.com/ohjelmointi2/inheritance-interfaces)
 
 -----
 
