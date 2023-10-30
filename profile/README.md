@@ -11,7 +11,7 @@ Online-toteutuksen oppitunnit järjestetään kurssin Teams-kanavalla viikoittai
 
 Kurssin osasuorituksiin kuuluu viikoittaiset harjoitustehtävät kurssin eri osa-alueista. Tehtävien teknisessä toteutuksessa hyödynnetään GitHub classroom -palvelua sekä Teams-ryhmää. Tehtävät tulee palauttaa aikataulun mukaisesti.
 
-*[Linkki tunnilla läpikäytyihin koodiesimerkkeihin](https://github.com/javakurssi/Tuntimateriaalit)
+[Linkki tunnilla läpikäytyihin koodiesimerkkeihin](https://github.com/javakurssi/Tuntimateriaalit)
 
 ### [](#) Viikko 1: Versionhallinta ja kurssin työkalut
 
