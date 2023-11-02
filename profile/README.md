@@ -35,6 +35,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 * [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Katso myös [video](https://youtu.be/xQujH0ElTUg).
 * [What is Git (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-git)
 * [Install Git (Atlassian)](https://www.atlassian.com/git/tutorials/install-git)
+* [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
 * [Git Cheat Sheet, pdf (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 *Gradle*
