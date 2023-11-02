@@ -80,6 +80,7 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 
 * [JUnit 5 User Guide (junit.org)](https://junit.org/junit5/docs/current/user-guide/)
 * [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
+* [Ohjelmointi 2 kurssin JUnit materiaalit](https://ohjelmointi2.github.io/testaus/)
 
 **Tehtävät (DL 12.11.)**
 
