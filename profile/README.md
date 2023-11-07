@@ -101,6 +101,7 @@ T채ll채 viikolla syvenn채mme olio-ohjelmointiosaamistamme tutustumalla perint채�
 * [Objects, Classes, Interfaces, Packages, and Inheritance (dev.java)](https://dev.java/learn/oop/)
 * [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
 * [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
+* [Ohjelmointi 2 kurssin perint채 ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
 
 **Teht채v채t (DL 19.11.)**
 
