@@ -125,6 +125,7 @@ T채ll채 viikolla syvenn채mme olio-ohjelmointiosaamistamme tutustumalla perint채�
 * [Lambda Expressions in Java (Coding with John, YouTube)](https://youtu.be/tj5sLSFjVj4)
 * [Optionals In Java (Coding with John, YouTube)](https://youtu.be/vKVzRbsMnTQ)
 * [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
+* [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
 
 **Teht채v채t (DL 26.11.)**
 
