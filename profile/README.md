@@ -44,7 +44,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 **Tehtävät (DL 29.10.)**
 
-💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
 * [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
@@ -67,7 +67,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 **Tehtävät (DL 5.11.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [Map exercises](https://github.com/ohjelmointi2/map-exercises)
 
@@ -86,7 +86,7 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 
 **Tehtävät (DL 12.11.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [JUnit exercise](https://github.com/ohjelmointi2/junit-exercise)
 
@@ -106,7 +106,7 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 
 **Tehtävät (DL 19.11.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [Interfaces and inheritance](https://github.com/ohjelmointi2/inheritance-interfaces)
 
@@ -131,7 +131,7 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 
 **Tehtävät (DL 26.11.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [Streams and Lambdas](https://github.com/ohjelmointi2/streams-and-lambdas)
 
@@ -148,7 +148,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Tehtävät (DL 3.12.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [SQL databases (Chinook, JDBC & DAO)](https://github.com/ohjelmointi2/sql-databases/)
 
@@ -179,7 +179,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Tehtävät (DL 10.12.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [Sorting & Filtering](https://github.com/ohjelmointi2/sorting-and-filtering)
 
@@ -192,7 +192,7 @@ Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm.
 
 **Tehtävät (DL 17.12.)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
 
 * [Commit history](https://github.com/ohjelmointi2/commit-history)
 
