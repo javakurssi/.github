@@ -192,7 +192,9 @@ Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm.
 
 **Tehtävät (DL 17.12.)**
 
-* Tehtävät julkaistaan kurssin aikana
+💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua GitHub classroom -linkin kautta, joka löytyy Teams-tehtävästä.*
+
+* [Commit history](https://github.com/ohjelmointi2/commit-history)
 
 -----
 
