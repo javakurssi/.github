@@ -145,6 +145,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 * [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
 * [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
+* [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
 
 **Tehtävät (DL 3.12.)**
 
