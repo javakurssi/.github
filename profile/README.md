@@ -163,6 +163,14 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Suositellut materiaalit**
 
+*Tuntiharjoitus*
+
+* [Wordplay-tuntiharjoitus](https://github.com/ohjelmointi2/wordplay-exercise)
+
+> *"Tämän harjoituksen tarkoituksena on perehtyä erilaisiin tietorakenteisiin ja algoritmeihin erityisesti niiden suorituskyvyn näkökulmasta. Samassa sivuamme ohjelmien suorituskykytestausta ja "asymptoottisen suoritusajan" käsitettä.*
+>
+> *Harjoituksen ensimmäisessä osassa perehdytään Javan listojen suorituskykyyn. Jälkimmäisessä osassa kehitettävä sovellus hyödyntää avointa nimi- ja sanakirja-aineistoa ja etsii sellaisia suomenkielisiä etunimiä, joilla on nimen lisäksi myös jokin toinen merkitys sanakirjassa. Tällaisia nimiä ovat esimerkiksi Tuuli ja Onni."*
+
 *Videot*
 
 * [Sorting Algorithms Explained Visually (Beyond Fireship)](https://youtu.be/RfXt_qHDEPw)
