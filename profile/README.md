@@ -200,6 +200,8 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm. rinnakkaisuuden ja rekursion käsitteisiin.
 
+* [Ohjelmointi 2 kurssin rinnakkaisuus materiaali]([https://ohjelmointi2.github.io/algoritmit/](https://ohjelmointi2.github.io/rinnakkaisuus/))
+
 **Tehtävät (DL 17.12.)**
 
 💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
