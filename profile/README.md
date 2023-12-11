@@ -200,7 +200,13 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm. rinnakkaisuuden ja rekursion käsitteisiin.
 
-* [Ohjelmointi 2 kurssin rinnakkaisuus materiaali](https://ohjelmointi2.github.io/rinnakkaisuus/)
+**Suositellut materiaalit**
+
+* [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/) 
+* [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/) 
+* [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency) 
+* [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
+* [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
 **Tehtävät (DL 17.12.)**
 
