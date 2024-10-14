@@ -43,12 +43,12 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 2.4. klo 22)**
+**Tehtävät (DL 29.10. klo 22)**
 
-💡 *Huom! Voit tutustua tehtäviin näiden linkkien kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/)
-* [Warming up (kurssin lämmittelytehtävät)](https://github.com/ohjelmointi2/warming-up)
+* Git "Hello world"
+* Warming up (kurssin lämmittelytehtävät)
 
 
 ----
@@ -66,11 +66,11 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 * [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 * [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
 
-**Tehtävät (DL 9.4. klo 22)**
+**Tehtävät (DL 5.11. klo 22)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [Map exercises](https://github.com/ohjelmointi2/map-exercises)
+* Map exercises
 
 ----
 
@@ -85,11 +85,11 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 * [Johdatus ohjelmien testaamiseen (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-6/3-johdatus-ohjelmien-testaamiseen)
 * [Ohjelmointi 2 kurssin JUnit materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/testaus/)
 
-**Tehtävät (DL 16.4. klo 22)**
+**Tehtävät (DL 12.11. klo 22)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [JUnit exercise](https://github.com/ohjelmointi2/junit-exercise)
+* JUnit exercise
 
 ----
 
@@ -105,11 +105,11 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [Perintä ja rajapinnat (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-9)
 * [Ohjelmointi 2 kurssin perintä ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
 
-**Tehtävät (DL 23.4. klo 22)**
+**Tehtävät (DL 19.11. klo 22)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [Interfaces and inheritance](https://github.com/ohjelmointi2/inheritance-interfaces)
+* Interfaces and inheritance
 
 -----
 
@@ -130,11 +130,11 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
 * [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
 
-**Tehtävät (DL 30.4. klo 22)**
+**Tehtävät (DL 26.11. klo 22)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [Streams and Lambdas](https://github.com/ohjelmointi2/streams-and-lambdas)
+* Streams and Lambdas
 
 -----
 
@@ -148,11 +148,11 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 * [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 * [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
 
-**Tehtävät (DL 7.5. klo 22)**
+**Tehtävät (DL 3.12. klo 22)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [SQL databases (Chinook, JDBC & DAO)](https://github.com/ohjelmointi2/sql-databases/)
+* SQL databases (Chinook, JDBC & DAO)
 
 -----
 
@@ -188,11 +188,11 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 * [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
 * [Ohjelmointi 2 kurssin tietorakenteet ja algoritmit materiaali](https://ohjelmointi2.github.io/algoritmit/)
 
-**Tehtävät (DL 14.5. klo 22)**
+**Tehtävät (DL 10.12. klo 22)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [Sorting & Filtering](https://github.com/ohjelmointi2/sorting-and-filtering)
+* Sorting & Filtering
 
 
 -----
@@ -209,11 +209,11 @@ Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm.
 * [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
 * [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
-**Tehtävät (DL 26.5. klo 22)**
+**Tehtävät (DL 15.12. klo 22)**
 
-💡 *Huom! Voit tutustua tehtävään tämän linkin kautta, mutta toteuta oma ratkaisusi omaan kopioosi. Oman kopion saat luotua linkillä, joka löytyy Teams-ryhmästä.*
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* [Commit history](https://github.com/ohjelmointi2/commit-history)
+* Commit history
 
 -----
 
