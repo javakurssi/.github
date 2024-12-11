@@ -244,7 +244,9 @@ Kurssilla on viikoittaisia tehtäviä, jotka tulee palauttaa annettuihin määr�
 
 ## [](#) 📊 Arviointi
 
-Kurssi arvioidaan asteikolla 0-5. Kurssin loppuarvosana lasketaan kurssin tehtävien keskiarvosta siten, että jokaisen viikon tehtävillä on sama painoarvo. Yksittäisten tehtävien arvosanoja ei pyöristetä, vaan mahdollinen pyöristys tehdään vasta loppuarvosanaa laskettaessa.
+Kurssi arvioidaan palautettujen tehtävien perusteella asteikolla 0-5. Kurssin loppuarvosana lasketaan kurssin tehtävien keskiarvosta siten, että jokaisen viikon tehtävillä on sama painoarvo. Yksittäisten tehtävien arvosanoja ei pyöristetä, vaan mahdollinen pyöristys tehdään vasta loppuarvosanaa laskettaessa.
+
+Yksittäinen palauttamatta jäänyt tai arvosanalla 0 arvioitu tehtävä ei estä seuraavien tehtävien tekemistä eikä kurssin suorittamista, kunhan kokonaisuutena kurssista muodostuu lopulta hyväksytty arvosana. Poikkeuksena tähän on tehtävä tai tehtävät, jotka toimivat kurssille osallistumisen vahvistamisessa.
 
 
 ## [](#) ⏱️ Kurssin työmäärä
