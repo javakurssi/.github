@@ -5,9 +5,7 @@ Tällä kurssilla syvennämme ohjelmointiosaamistamme ja sovellamme aiemmin oppi
 Tämä kurssisivu täydentää Ohjelmointi 2 -toteutusten yhteistä [ohjelmointi2.github.io](https://ohjelmointi2.github.io)-sivustoa ja sisältää erityisesti tietoa virtual- ja online-toteutusten aikataulusta sekä käytännön järjestelyistä.
 
 
-## [](#) Online- ja virtual-toteutusten sisältö viikoittain
-
-Online-toteutuksen oppitunnit järjestetään kurssin Teams-kanavalla viikoittain **keskiviikkoisin klo 17.40 alkaen**. Virtual- ja online-toteutusten osallistujat ovat yhtä lailla tervetulleita osallistumaan Teams-oppitunneille tai opiskelemaan itsenäisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
+## [](#) Sisältö viikoittain
 
 Kurssin osasuorituksiin kuuluu viikoittaiset harjoitustehtävät kurssin eri osa-alueista. Tehtävien teknisessä toteutuksessa hyödynnetään GitHub classroom -palvelua sekä Teams-ryhmää. Tehtävät tulee palauttaa aikataulun mukaisesti eikä myöhästyneitä ratkaisuja lähtökohtaisesti huomioida. Force majeure -tapauksissa lisäaikaa tehtäviin tulee pyytää reilusti ennen tehtävän määräajan umpeutumista.
 
