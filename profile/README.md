@@ -3,7 +3,7 @@
 Tällä kurssilla syvennämme ohjelmointiosaamistamme ja sovellamme aiemmin oppimianne ohjelmointitaitoja mm. tietokantojen parissa. Syvennymme kielen syntaksin ja tarvittavien kirjastojen lisäksi myös yksikkötestaukseen, automaatiotyökaluihin sekä versionhallintaan.
 
 Tämä kurssisivu täydentää Ohjelmointi 2 -toteutusten yhteistä [ohjelmointi2.github.io](https://ohjelmointi2.github.io)-sivustoa ja sisältää erityisesti tietoa virtual- ja online-toteutusten aikataulusta sekä käytännön järjestelyistä.
-TESTI
+
 
 ## [](#) Sisältö viikoittain
 
@@ -41,7 +41,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 29.10. klo 22)**
+**Tehtävät (DL su 30.3. klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -64,7 +64,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 * [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 * [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
 
-**Tehtävät (DL 5.11. klo 22)**
+**Tehtävät (DL 6.3. klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
